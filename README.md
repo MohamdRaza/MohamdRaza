@@ -67,7 +67,7 @@ me.say_hi()
 ### 🔬 Machine Learning
 | Project | Description | Tech |
 |--------|-------------|------|
-| [📊 Project Name](https://github.com/MohamdRaza/project) | Brief description of what it does and results achieved | PyTorch, Pandas |
+| [Titanic_ML_project](https://github.com/MohamdRaza/Machine-Learnig-projects) | A practice notebook implementing and comparing multiple ML models, scalers, encoders, and clustering techniques. |  Python, numpy, pandas, matplotlib, seaborn, scikit learn |
 | [🤖 Project Name](https://github.com/MohamdRaza/project) | Brief description of what it does and results achieved | Scikit-learn, NumPy |
 
 ### 📈 EDA & Visualization
