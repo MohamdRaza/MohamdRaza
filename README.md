@@ -73,7 +73,7 @@ me.say_hi()
 ### 📈 EDA & Visualization
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔍 Project Name](https://github.com/MohamdRaza/project) | Brief description — key insights found | Pandas, Seaborn, Matplotlib |
+| [🔍 Project Name](https://github.com/MohamdRaza/Exploratory-Data-Analysis) | Brief description — key insights found | Pandas, Seaborn, Matplotlib |
 | [📉 Project Name](https://github.com/MohamdRaza/project) | Brief description — dashboard or analysis | Tableau, Power BI |
 
 ### 🧬 Deep Learning
